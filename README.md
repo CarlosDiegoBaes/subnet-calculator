@@ -1,6 +1,6 @@
 # Subnet Calculator
 
-A Python IPv4 subnet calculator that shows the binary math behind each answer. I built it while studying for CompTIA Network+ and Security+. Every result is cross-checked against Python's `ipaddress` module.
+A Python IPv4 subnet calculator that shows the binary math behind each answer. I built it after my Network+ course at Grossmont College. Every result is cross-checked against Python's `ipaddress` module.
 
 ![VLSM demo](vlsm-demo.png)
 
